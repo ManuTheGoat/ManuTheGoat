@@ -1,4 +1,5 @@
 ### Hi there 👋 Hi! I'm Manu (or Manveer,)
+## I'm currently learning Python & C
 
 <!--
 **ManuTheGoat/ManuTheGoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
